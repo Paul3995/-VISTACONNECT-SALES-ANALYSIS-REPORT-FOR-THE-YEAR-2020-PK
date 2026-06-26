@@ -1,71 +1,24 @@
-# VistaConnect Sales Analysis Report (2020)
+# VistaConnect Sales Analysis (2020)
 
-A data analysis project examining VistaConnect's 2020 sales performance across states, cities, products, and retail channels, built with **Microsoft Excel**.
+This project digs into VistaConnect's 2020 sales data to understand how the business performed across different states, cities, products, and retail partners. The goal was to spot what was working and where the gaps were.
 
-![VistaConnect Dashboard](Screenshot%202024-10-23%20at%2013.41.09%20copy%20(2).png)
+## What I Found
 
----
+New York was the best performing state by a clear margin, while North Carolina sat at the bottom. In-store sales consistently beat outlet sales, and Men's Street Footwear was the strongest product — Men's Apparel struggled in comparison.
 
-## Project Overview
-
-This report analyses VistaConnect's 2020 sales data to uncover regional trends, channel performance, and product insights, delivering actionable recommendations to guide strategic decisions.
-
-**Areas covered:**
-- Sales performance by state and city
-- Sales channel breakdown (in-store vs outlet)
-- Product category performance
-- Retailer comparison
-
----
-
-## Tools & Technologies
-
-| Tool | Purpose |
-|------|---------|
-| Microsoft Excel | Data cleaning, analysis, and dashboard visualisation |
-
----
-
-## Key Findings
-
-| Metric | Best Performing | Lowest Performing |
-|--------|----------------|------------------|
-| State | New York | North Carolina |
-| City | Charleston | Orlando |
-| Sales Method | In-Store | Outlet |
-| Product | Men's Street Footwear | Men's Apparel |
-| Retailer | West Gear | Walmart |
-
----
+On the city side, Charleston came out on top while Orlando had the lowest earnings. West Gear was the strongest retail partner; Walmart was the weakest.
 
 ## Recommendations
 
-**State Performance**
-- North Carolina should analyse gaps versus New York and invest in education, healthcare, and infrastructure to drive growth.
+North Carolina has a real opportunity to close the gap with New York — investment in education, healthcare, and infrastructure would be a solid foundation. For the outlet channel, the strategy needs a rethink: better locations, exclusive deals, and stronger marketing could make a real difference.
 
-**Sales Channel**
-- Strengthen the in-store experience to maintain its lead; revamp outlet strategy through better locations, exclusive deals, and improved marketing.
+Charleston's approach is worth studying closely. Orlando could build momentum by diversifying its industry base, improving workforce skills, and leaning into tourism.
 
-**City Performance**
-- Use Charleston as a benchmark; help Orlando grow by diversifying industries, upskilling the workforce, and boosting tourism incentives.
-
-**Product Mix**
-- Expand men's street footwear to sustain momentum; revamp men's apparel with trend-led designs, targeted marketing, and competitive pricing.
-
-**Retailer Strategy**
-- Benchmark West Gear's approach and replicate winning tactics with Walmart through tailored promotions and exclusive product offerings.
-
----
+Men's Apparel needs a refresh — updated designs, competitive pricing, and more targeted marketing could bring it closer to the footwear numbers.
 
 ## How to View
 
-1. Download `VISTACOONECT.xlsx`
-2. Open with Microsoft Excel or Google Sheets
-3. Navigate the sheets to explore the full analysis
+Download `VISTACOONECT.xlsx` and open it in Excel or Google Sheets.
 
 ---
-
-## About
-
-**Period:** 2020  
 **Author:** [@Paul3995](https://github.com/Paul3995)
