@@ -68,4 +68,4 @@ This report analyses VistaConnect's 2020 sales data to uncover regional trends, 
 ## About
 
 **Period:** 2020  
-**Author:** Paul Toluwase
+**Author:** [@Paul3995](https://github.com/Paul3995)
