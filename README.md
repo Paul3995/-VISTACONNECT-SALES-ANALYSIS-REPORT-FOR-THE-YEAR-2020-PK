@@ -1,27 +1,71 @@
-# -VISTACONNECT-SALES-ANALYSIS-REPORT-FOR-THE-YEAR-2020-PK
-This sales analysis report aim to provide actionable insight into overall market dynamics and trend during this period
+# VistaConnect Sales Analysis Report (2020)
 
+A data analysis project examining VistaConnect's 2020 sales performance across states, cities, products, and retail channels, built with **Microsoft Excel**.
 
-key insight from the data
+![VistaConnect Dashboard](Screenshot%202024-10-23%20at%2013.41.09%20copy%20(2).png)
 
-It’s observed that New York is the best performing state while the lowest is North Carolina
+---
 
-The best sales by method is in store while the latest is the outlet
+## Project Overview
 
-Charleston is the top earnings by cities while the least is Orlando
+This report analyses VistaConnect's 2020 sales data to uncover regional trends, channel performance, and product insights, delivering actionable recommendations to guide strategic decisions.
 
-Men’s street footwear  is the best performing product while the latest is the man’s aparel
+**Areas covered:**
+- Sales performance by state and city
+- Sales channel breakdown (in-store vs outlet)
+- Product category performance
+- Retailer comparison
 
-The best sales by retailers is west gear while the least is the Walmart
+---
 
-Recommendation 
+## Tools & Technologies
 
-North Carolina should analyze performance gaps compared to New York and prioritize targeted investments in key sectors like education, healthcare, and infrastructure to drive improvement.
+| Tool | Purpose |
+|------|---------|
+| Microsoft Excel | Data cleaning, analysis, and dashboard visualisation |
 
-Focus on enhancing the in-store experience to maintain strong sales while revamping outlet strategies, such as optimizing locations, offering exclusive deals, and improving marketing to attract more customers.
+---
 
-Charleston should be used as a model to identify successful strategies, while Orlando can boost earnings by focusing on diversifying industries, improving workforce skills, and enhancing tourism or local business incentives.
+## Key Findings
 
-Prioritize expanding the men’s street footwear category to maintain its success while revamping men’s apparel through trend analysis, improved designs, targeted marketing, and competitive pricing to boost performance.
+| Metric | Best Performing | Lowest Performing |
+|--------|----------------|------------------|
+| State | New York | North Carolina |
+| City | Charleston | Orlando |
+| Sales Method | In-Store | Outlet |
+| Product | Men's Street Footwear | Men's Apparel |
+| Retailer | West Gear | Walmart |
 
-Leverage West Gear’s strategies as a benchmark for success, while collaborating with Walmart to improve sales through tailored promotions, enhanced product displays, and exclusive offerings.
+---
+
+## Recommendations
+
+**State Performance**
+- North Carolina should analyse gaps versus New York and invest in education, healthcare, and infrastructure to drive growth.
+
+**Sales Channel**
+- Strengthen the in-store experience to maintain its lead; revamp outlet strategy through better locations, exclusive deals, and improved marketing.
+
+**City Performance**
+- Use Charleston as a benchmark; help Orlando grow by diversifying industries, upskilling the workforce, and boosting tourism incentives.
+
+**Product Mix**
+- Expand men's street footwear to sustain momentum; revamp men's apparel with trend-led designs, targeted marketing, and competitive pricing.
+
+**Retailer Strategy**
+- Benchmark West Gear's approach and replicate winning tactics with Walmart through tailored promotions and exclusive product offerings.
+
+---
+
+## How to View
+
+1. Download `VISTACOONECT.xlsx`
+2. Open with Microsoft Excel or Google Sheets
+3. Navigate the sheets to explore the full analysis
+
+---
+
+## About
+
+**Period:** 2020  
+**Author:** Paul Toluwase
